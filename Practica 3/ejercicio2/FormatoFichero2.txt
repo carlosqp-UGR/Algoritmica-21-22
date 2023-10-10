@@ -1,0 +1,5 @@
+Datos a introducir en data1.dat
+1 Meter numero de gasolineras disponibles en el camino
+2 Distancia que tiene que recorrer el autobus
+3 Distancia maxima que puede recorrer con deposito lleno
+4 puntoskm de cada gasolinera.... 

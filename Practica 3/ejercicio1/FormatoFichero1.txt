@@ -1,0 +1,7 @@
+FORMATO FICHERO EJERCICIO 1
+
+- Línea 1: n = número de plazas
+- Línea 2: sink = índice del sensor de sincronización de datos (objetivo)
+- Líneas 3 hasta n+2: Las conexiones en orden, entre los sensores. Si no hay conexion entre los sensores, el valor -1 únicamente.
+
+Ver un ejemplo de este formato en el fichero "data1.dat".

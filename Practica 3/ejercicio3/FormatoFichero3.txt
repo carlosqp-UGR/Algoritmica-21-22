@@ -1,0 +1,7 @@
+FORMATO FICHERO EJERCICIO 3
+
+- Línea 1: capacidad en toneladas del buque
+- Línea 2: n = numero total de contenedores
+- Línea 3: pesos de los contenedores
+
+Ver un ejemplo de este formato en el fichero "data3.dat".
